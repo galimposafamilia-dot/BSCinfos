@@ -9,4 +9,5 @@ window.BSC_USERS = [
     {username: "Sagaz67",password: "4128"},
     {username: "Bugu",password: "bscinfos"},
     {username: "KingJoe",password: "bscinfos"},
+    {username: "WChef",password: "bscinfos"},
 ];
